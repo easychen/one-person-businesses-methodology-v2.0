@@ -1,0 +1,6 @@
+[book]
+authors = ["Easy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "一人企业方法论"
