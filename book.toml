@@ -1,6 +1,9 @@
 [book]
 authors = ["Easy"]
-language = "en"
+language = "zh-cn"
 multilingual = false
 src = "src"
 title = "一人企业方法论"
+
+[output.epub]
+cover-image = "src/images/opb-book-cover.jpg"
