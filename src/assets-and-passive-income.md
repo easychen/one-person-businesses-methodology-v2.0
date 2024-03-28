@@ -5,7 +5,7 @@
 
 对二十一世纪来说最宝贵的是人才，但对一人企业来说，最宝贵的却是时间。最稀缺的就是最宝贵的。正如本书前文中所述的，对于只有一个全职员工的企业，即使我们每天工作10小时，一周也只有50个工时。如果是以Side Project的方式来做，可用工时会更少。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-29-1024x884.png)
+![](./images/image-29-1024x884.png)
 
 实现平台的日薪
 
@@ -16,7 +16,7 @@
 资产和被动收入
 -------
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-30.png)
+![](./images/image-30.png)
 
 《穷爸爸富爸爸》
 
@@ -28,7 +28,7 @@
 
 书中对资产的定义是：「资产就是能把钱放进你口袋里的东西」。换言之，如果某样东西能在你不工作的时候为你带来持续的收入，那么它就可以被认为是资产。本书将沿用这个定义。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-31-1024x810.png)
+![](./images/image-31-1024x810.png)
 
 让资产为你工作
 
@@ -41,7 +41,7 @@
 
 资产可以「把钱放进你的口袋」，这可是会下金蛋的鸡，当然是人人都想要了。既然人人想要，就难以轻易获得了。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-32-1024x421.png)
+![](./images/image-32-1024x421.png)
 
 如何获得资产
 
@@ -51,7 +51,7 @@
 
 如果你手上钱比较多（这种情况比较少），那么可以通过投资或收购的方式来获得资产。这将帮我们跨过试错环节，直接去收购那些已经被市场认可，开始有不错的MRR（每月周期性收入）的资产。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-33-1024x1018.png)
+![](./images/image-33-1024x1018.png)
 
 indiemaker.co
 
@@ -59,7 +59,7 @@ indiemaker.co
 
 例如，在Indie Maker这个网站上，我们可以看到许多程序员会销售他们的Side project。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-34-1024x1018.png)
+![](./images/image-34-1024x1018.png)
 
 已经产生MRR的项目
 
@@ -71,7 +71,7 @@ indiemaker.co
 
 #### 收购其他资产
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-35-1024x499.png)
+![](./images/image-35-1024x499.png)
 
 除了软件和SaaS产品之外，我们还可以考虑购买其他类型的资产。如网站、版权、房产、股份、账号以及一些自媒体平台。这会帮我们节省大量时间。
 
@@ -87,7 +87,7 @@ indiemaker.co
 
 #### 数字商品创作
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-36-1024x581.png)
+![](./images/image-36-1024x581.png)
 
 数字商品创作的种类
 
@@ -99,7 +99,7 @@ indiemaker.co
 
 #### 通过NoCode创造互联网应用
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-37-1024x610.png)
+![](./images/image-37-1024x610.png)
 
 NoCode创作实例
 
@@ -126,7 +126,7 @@ NoCode创作实例
 
 #### 开源+AI定制
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-38-1024x649.png)
+![](./images/image-38-1024x649.png)
 
 通过GPT给WordPress写插件
 
@@ -147,7 +147,7 @@ NoCode创作实例
 
 这里给大家分享一个我自己的标准，它包含以下五个评估项：投入、产出、持续性、风险和门槛。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-39-1024x918.png)
+![](./images/image-39-1024x918.png)
 
 资产的量化评估
 
@@ -159,7 +159,7 @@ NoCode创作实例
 
 很多产出不大的资产，如果投入极低，也是可以操作的。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-41-1024x982.png)
+![](./images/image-41-1024x982.png)
 
 B站视频
 
@@ -171,7 +171,7 @@ B站视频
 
 「被动收入」这个说法容易让人误解为我们持有资产以后，什么事都不需要做了，资产就会源源不断地为我们挣钱。但实际上，每次投入能带来的产出往往是随着时间递减的，因为市场会变化、需求会更新、潮流会轮回、设备会陈旧。我们必须再次投入，才能恢复其产出。持续性则描述了投入之后，可以持续带来收入的时间。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-40-1024x976.png)
+![](./images/image-40-1024x976.png)
 
 持续性高的资产
 

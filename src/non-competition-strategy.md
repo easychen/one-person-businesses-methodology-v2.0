@@ -35,7 +35,7 @@ WordPress庞大的开源生态
 
 可能有人会质疑，开发插件和主题能赚多少钱呢？
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-53-1024x542.png)
+![](./images/image-53-1024x542.png)
 
 ThemeFroest上的畅销主题
 
@@ -45,7 +45,7 @@ ThemeFroest上的畅销主题
 
 #### Notion
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-54-1024x659.png)
+![](./images/image-54-1024x659.png)
 
 Notion首页
 
@@ -59,7 +59,7 @@ Notion是一个最近几年迅速崛起的文档平台，通过提供API，许�
 
 #### WebFlow
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-55-1024x1018.png)
+![](./images/image-55-1024x1018.png)
 
 WebFlow首页
 
@@ -91,7 +91,7 @@ WebFlow首页
 
 比如我们不会觉得《王国维点评红楼梦》和《胡适点评红楼梦》的内容是一样的，可以有很多人从不同的角度来点评和解读。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-56-775x1024.png)
+![](./images/image-56-775x1024.png)
 
 很多版本的红楼梦点评
 
@@ -127,7 +127,7 @@ WebFlow首页
 
 比如，虽然许多人可能在做相同的事情，讲述相同的内容，但由于每个人的个性和风格不同，消费者的体验也完全不同。这种差异化消除了明显的竞争关系。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-60-833x1024.png)
+![](./images/image-60-833x1024.png)
 
 个人IP成为产品特色
 
@@ -139,7 +139,7 @@ WebFlow首页
 
 改变商业逻辑的一个例子是手办盲盒。本来可以花一份钱买齐全套的手办，以盲盒形式售卖，既增加了用户对已经获得手办的重复购买、也保持了用户对未获得手办的购买欲望。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-59.png)
+![](./images/image-59.png)
 
 以盲盒形式售卖的手办
 
@@ -152,7 +152,7 @@ WebFlow首页
 
 比如，我之前尝试创造了一款介于课程和游戏之间的产品《萌猫、室友、前端课》，它可以让用户在玩游戏的过程中学习一些前端开发的知识，这就属于游戏和课程的混搭型产品。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-61-1024x740.png)
+![](./images/image-61-1024x740.png)
 
 可以学习前端知识的游戏
 

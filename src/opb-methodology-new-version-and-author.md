@@ -7,7 +7,7 @@
 
 经过两到三年的不断迭代，我们现在有了2.0版的「一人企业方法论」。这个名字之所以把「公司」换成了「企业」，是因为「一人公司」容易与公司法里面一人制公司产生混淆，所以我把它改成了「企业」这个词。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-1024x562.png)
+![](./images/image-1024x562.png)
 
 新版方法论
 
@@ -30,7 +30,7 @@
 
 ### 独立开发者
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-11-at-9.42.20-PM-1024x580.png)
+![](./images/Screen-Shot-2024-03-11-at-9.42.20-PM-1024x580.png)
 
 Easy开发的独立项目
 
@@ -48,7 +48,7 @@ Easy开发的独立项目
 
 所以，我还有一个身份：课程主讲人。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-1-1024x604.png)
+![](./images/image-1-1024x604.png)
 
 方糖技能站首页
 
@@ -60,7 +60,7 @@ Easy开发的独立项目
 
 另外一方面，我对怎么靠技术挣钱这件事情，尤其是以个体的方式、优雅地挣钱很感兴趣。最开始，我写了[《程序员如何优雅地挣零花钱》](https://github.com/easychen/howto-make-more-money)。因为之前都是面向程序员的，所以我把这些文章和电子书都发布到了GitHub上，它们累积到现在大约有16K的Star（加星）。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-2-1024x601.png)
+![](./images/image-2-1024x601.png)
 
 Easy关于副业和一人企业的分享
 
@@ -77,7 +77,7 @@ Easy关于副业和一人企业的分享
 
 换个角度看，这或许也有好的方面。如果我已经成为超级个体，那么我很可能就不会花这么多时间来反思和总结方法论，并将其作为副产品分享出来。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-3-1024x527.png)
+![](./images/image-3-1024x527.png)
 
 成为超级个体过程中的几个前置节点
 
@@ -106,7 +106,7 @@ Easy关于副业和一人企业的分享
 
 在本书里边，我目前能够分享的，也就是「从螺丝钉到一般个体（工作自由）」的这一部分。希望后续有机会能补全「从一般个体到超级个体」的部分。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-4-1024x535.png)
+![](./images/image-4-1024x535.png)
 
 分享的作用和意义
 

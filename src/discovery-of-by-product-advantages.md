@@ -19,7 +19,7 @@
 
 ### 工作流和方法论
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-83.png)
+![](./images/image-83.png)
 
 主业最大的副产品：工作流和方法论
 
@@ -31,7 +31,7 @@
 
 比如书籍出版，不但适合销售方法论，也是获得行业影响力的最佳渠道之一。甚至即使作为译者、也能「大树底下好乘凉」。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-84-707x1024.png)
+![](./images/image-84-707x1024.png)
 
 《故事写作大师班》
 
@@ -49,7 +49,7 @@
 
 这个原本只是为了充分利用副产品的举措，后来帮助我度过了全职独立开发时没有收入的那一段时间。我后来又将录制和制作技术教程的方法论做成了[网课变现课](https://stack.ftqq.com/course/detail/5)，实现了复合副产品优势。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/wangke-bianxian-ke.png)
+![](./images/wangke-bianxian-ke.png)
 
 网课变现课
 
@@ -64,7 +64,7 @@
 
 我2018年时曾出版过一本两万字左右的《[程序员跳槽全攻略](https://read.douban.com/ebook/7611058/)》，定价在一两块钱，累计收益扣完税有6千左右。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-85.png)
+![](./images/image-85.png)
 
 关于电子书的正式出版，可以参考我之前写的[《如何通过互联网出版一本小书》](https://github.com/easychen/howto-make-more-money/blob/master/ch11.md)一文中关于[BookDNA](https://www.bookdna.cn/)的介绍，注意因为文章写作时间较早，部分内容可能过时，需要自行确认。
 
@@ -78,13 +78,13 @@
 
 OpenAI在2023年11月推出了Custom GPT，允许用户通过指定提示词、上传文档、添加API作为工具等方式，将通用GPT定制为专用版本。并在 2024年1月10日推出了GPT商店，采用与苹果应用商店类似的商业模式，创作者可以在其中盈利。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-87-1024x799.png)
+![](./images/image-87-1024x799.png)
 
 GPT Store
 
 经常活跃在微博上的[宝玉XP](https://weibo.com/u/1727858283)老师，经常使用GPT翻译大量科技文章和视频字幕。他将自己的方法论制作为Custom GPT后发布在 GPT 商店，在2024年1月登上了 GPT Store Writing分类的第一名。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-86.png)
+![](./images/image-86.png)
 
 科技文章翻译GPT
 
@@ -94,7 +94,7 @@ PS：可以[点这里](https://weibo.com/1727858283/4981299343787589)查看这�
 
 通常AI产品并不能完成一个完整的工作流，于是出现了各种AI工作流软件。一个典型的例子是ComfyUI，它是一个基于Stable Diffusion的流程工具，可以完整覆盖除了图片生成以外的其他工作流。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-88-1024x641.png)
+![](./images/image-88-1024x641.png)
 
 ComfyUI
 
@@ -110,7 +110,7 @@ ComfyUI
 
 ### 行业知识库
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-89.png)
+![](./images/image-89.png)
 
 行业知识库
 
@@ -142,7 +142,7 @@ ComfyUI
 
 在传统行业和二三线城市，人脉关系至为重要，甚至是很多人的生存之道。但作为互联网从业者，我们可能会认为，在这个行业里，人脉关系并不是主要资源，大部分的业务还是规则驱动的。但后来我意识到，光是认识的人足够多，就可以成为撮合型业务的基础。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-90.png)
+![](./images/image-90.png)
 
 人脉关系的副产品形式
 
@@ -155,7 +155,7 @@ ComfyUI
 
 例如，有些人每天不得不花费一到两个小时在通勤上，这段时间内，他们可能会选择在地铁上刷手机。这种生活方式能够带来的副产品之一就是阅读。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-91.png)
+![](./images/image-91.png)
 
 湾区日报
 
@@ -167,7 +167,7 @@ ComfyUI
 
 不过，看起来湾区日报在2023年11月停止更新。其挑战之一在于，尽管文章摘要使用中文，但许多链接的内容都是英文，这对于一些读者来说可能较为困难。湾区日报创建时，人工智能还不够成熟，如果我们现在考虑使用人工智能技术来重构，那么可以将其打造成足够自动化的Reading as a Service。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-92-1024x475.png)
+![](./images/image-92-1024x475.png)
 
 Reading as a Service
 

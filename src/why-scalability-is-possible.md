@@ -7,7 +7,7 @@
 新杠杆
 ---
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-21.png)
+![](./images/image-21.png)
 
 《纳瓦尔宝典》
 
@@ -15,7 +15,7 @@
 
 ### 传统杠杆
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-22-1024x733.png)
+![](./images/image-22-1024x733.png)
 
 传统杠杆
 
@@ -29,7 +29,7 @@
 
 而新杠杆则是指那些复制边际成本为零的产品，如多媒体内容、版权、代码等。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-23-1024x440.png)
+![](./images/image-23-1024x440.png)
 
 新旧杠杆的对比
 
@@ -37,7 +37,7 @@
 
 而新杠杆在定义上，就是冲着「无（边际）成本规划化」去的。因为对于复制和发布成本为零的产品，一旦生产完成，无论复制多少份，都不会再增加成本。这是一个简单的乘法，0乘以多少结果都是0。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-24-1024x640.png)
+![](./images/image-24-1024x640.png)
 
 新杠杆为何可以规模化
 
@@ -50,7 +50,7 @@
 新基础设施
 -----
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-25-1024x568.png)
+![](./images/image-25-1024x568.png)
 
 逐渐成熟的新型基础设施
 
@@ -73,7 +73,7 @@
 
 ### 《百万美金的一人企业》
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-26.png)
+![](./images/image-26.png)
 
 《百万美金的一人企业》
 
@@ -90,7 +90,7 @@
 
 ### Trenders.vc的报告
 
-[![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-27-1024x1018.png)](https://trends.vc/archive/)
+[![](./images/image-27-1024x1018.png)](https://trends.vc/archive/)
 
 trends.vc趋势报告
 
@@ -106,7 +106,7 @@ Trenders.vc是一个针对独立开发者的趋势报告服务，以下是[Trend
 
 ### IndieHackers的案例库
 
-[![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-28-1024x1018.png)](https://www.indiehackers.com/stories)
+[![](./images/image-28-1024x1018.png)](https://www.indiehackers.com/stories)
 
 IH案例库
 

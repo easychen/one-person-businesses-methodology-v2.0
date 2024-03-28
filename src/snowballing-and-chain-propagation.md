@@ -2,7 +2,7 @@
 
 我们继续探讨底层逻辑。这次聊聊滚雪球和链式传播。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-43-1024x651.png)
+![](./images/image-43-1024x651.png)
 
 复利和滚雪球
 
@@ -17,7 +17,7 @@
 
 即使不主动投资，在我国大多数银行的定期存款，也可以选择利息在到期后与本金合并重新存入，从而实现复利效应。当然，因为利率本身不高、本金不多、周期又太长，这种财富增长的速度差强人意。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-42-817x1024.png)
+![](./images/image-42-817x1024.png)
 
 被动理财是精灵族的天赋技能
 
@@ -41,7 +41,7 @@
 -   UGC：发布内容引发用户讨论，将用户讨论整理作为新的内容发布，再整理新内容的讨论
 -   付费式增长引擎：向渠道付费为商业产品获取用户，将从用户身上变现的钱再投入渠道，获取更多用户
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-44-800x1024.png)
+![](./images/image-44-800x1024.png)
 
 用已有资产收益投入新资产
 
@@ -52,7 +52,7 @@
 链式传播：人传人
 --------
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-45-1024x894.png)
+![](./images/image-45-1024x894.png)
 
 链式传播
 
@@ -68,7 +68,7 @@
 
 《引爆点》（The Tipping Point）这本书由马尔科姆-格拉德威尔（Malcolm Gladwell）所著，首次出版于2000年。主要探讨了小的变化如何能够引发大的社会效应，即所谓的「引爆点」理论。作者借鉴流行病学的概念，通过将社会现象和病毒的传播类比展开研究。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-46-722x1024.png)
+![](./images/image-46-722x1024.png)
 
 《引爆点》
 
@@ -87,7 +87,7 @@
 
 《疯传》（Contagious: Why Things Catch On）这本书由乔纳-伯格（Jonah Berger）所著，于2013年出版。在书中，作者提出了使事物变得具有传染性的六大原则，即伯格的「STEPPS」模型。个人认为，这本书则可以看做对《引爆点》的绝佳补充，两者构成了相对完整的、又极具可操作性的链式传播理论。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-47-712x1024.png)
+![](./images/image-47-712x1024.png)
 
 《疯传》
 
@@ -102,13 +102,13 @@
 
 六大原则中，关于情绪的研究非常有意思，同时也有些反直觉：满足感和悲伤并不会促进传播。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-48-1024x227.png)
+![](./images/image-48-1024x227.png)
 
 情绪的唤醒效果
 
 这些原则已经被大量证明和使用，当我们不知道怎么策划一个传播时，可以把每一个原则都过一遍，往往会很快获得灵感。我们也了设计「链式传播画布」，帮助大家更全面地思考。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/opb-chain-propagation-1024x573.png)
+![](./images/opb-chain-propagation-1024x573.png)
 
 OPB链式传播画布
 

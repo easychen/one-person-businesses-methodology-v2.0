@@ -5,7 +5,7 @@
 从优势开始
 -----
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-93.png)
+![](./images/image-93.png)
 
 首先，我要给大家的建议是，不要一时冲动就辞职。最佳的做法是从副业开始，从优势开始。这里涉及到两个核心优势：副产品优势和低成本优势。
 
@@ -34,7 +34,7 @@
 
 对于程序员和技术人群来讲，副业在职业安全上还有额外的意义。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-94.png)
+![](./images/image-94.png)
 
 技术债务驱动的架构更新
 
@@ -49,7 +49,7 @@
 
 一个好的模式是，从副业开始，不断增长MRR（月周期收入），逐步剥离对主业的依赖，直到副业和主业解耦以后，再考虑将副业转为主业。我们称这个模式为「渐进式成长」。
 
-![](https://res07.ftqq.com/wp-content/uploads/2024/03/image-95.png)
+![](./images/image-95.png)
 
 渐进式成长
 
