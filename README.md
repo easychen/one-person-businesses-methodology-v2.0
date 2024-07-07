@@ -1,11 +1,15 @@
-# 《一人企业方法论》第二版
+# 《一人企业方法论》V2.1
+
+## 2.1 版本
+
+1. 添加《基础设施及搭建》相关章节，填平从理论到实践之间的鸿沟，帮助读者更快起步。
 
 ## 对第一版的改进
 
 1. 从长文到一本近6万字的小书，从有感而发的分享到两年迭代而得的**完整方法论**
 1. 不再局限在独立开发，发展为**更为通用的方法论**，非技术读者也可创作数字商品或基于NoCode/开源项目+AI辅助构建在线服务
 
-![](./src/images/opb-book-cover.jpg)
+![](./src/images/opb-book-cover-2.1.jpg)
 
 ## 作者信息
 
@@ -25,7 +29,7 @@
 
 ## 电子书
 
-- 可使用 mdbook-epub 工具自行编译
+- 可使用 mdbook-epub 工具自行编译：`mdbook-epub --standalone true` 然后 epub 在 book 目录下
 - 扫码订阅《方法论》更新频道后下载: [进入](https://subdeer.cn/channel/landing/11)
 
 ## 在线阅读
@@ -47,3 +51,11 @@
     1.  [优势发现:副产品优势](https://ft07.com/discovery-of-by-product-advantages?mtm_campaign=github&mtm_kwd=opbmv2)
     1.  [风险评控:从副业开始](https://ft07.com/start-from-side-project?mtm_campaign=github&mtm_kwd=opbmv2)
     1.  [风险评控:管理和利用不确定性](https://ft07.com/managing-and-utilizing-uncertainty?mtm_campaign=github&mtm_kwd=opbmv2)
+    1.  [产品构建:从零构建软件产品或服务](https://ft07.com/building-software-products-or-services-from-scratch-1/)
+4.  基础设施及搭建
+    -   [理想的一人企业基础设施](https://ft07.com/what-is-the-ideal-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [用户池和触达能力](https://ft07.com/infrastructure-user-pool-reach-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [内容池和自动化能力](https://ft07.com/content-pool-and-automation-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [产品池和支付能力](https://ft07.com/product-pool-and-payment-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [众包能力](https://ft07.com/crowdsourcing-capability?mtm_campaign=github&mtm_kwd=opbmv2)
+    -   [搭建一人企业基础设施](https://ft07.com/setup-a-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)

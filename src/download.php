@@ -26,7 +26,7 @@ function downloadImage($url, $filepath)
 function replaceImageLinksInFile($filePath, $imagesDir)
 {
     $data = file_get_contents($filePath);
-    $regex = '/!\[.*?\]\((https:\/\/res07\.ftqq\.com\/.*?\.(jpg|png|gif|bmp|webp))\)/';
+    $regex = '/!\[.*?\]\((https:\/\/r2\.ft07\.com\/.*?\.(jpg|png|gif|bmp|webp))\)/';
 
     preg_match_all($regex, $data, $matches, PREG_SET_ORDER);
     foreach ($matches as $match) {

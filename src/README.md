@@ -10,4 +10,4 @@
 
 ## 一人企业方法论
 
-![](./images/opb-book-cover.jpg)
+![](./images/opb-book-cover-2.1.jpg)
