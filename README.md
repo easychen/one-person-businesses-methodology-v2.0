@@ -53,7 +53,7 @@
     1.  [风险评控:从副业开始](https://ft07.com/start-from-side-project?mtm_campaign=github&mtm_kwd=opbmv2)
     1.  [风险评控:管理和利用不确定性](https://ft07.com/managing-and-utilizing-uncertainty?mtm_campaign=github&mtm_kwd=opbmv2)
     1.  [产品构建:从零构建软件产品或服务](https://ft07.com/building-software-products-or-services-from-scratch-1/)
-4.  基础设施及搭建
+4.  **基础设施及搭建**
     -   [理想的一人企业基础设施](https://ft07.com/what-is-the-ideal-one-person-business-infrastructure?mtm_campaign=github&mtm_kwd=opbmv2)
     -   [用户池和触达能力](https://ft07.com/infrastructure-user-pool-reach-capability?mtm_campaign=github&mtm_kwd=opbmv2)
     -   [内容池和自动化能力](https://ft07.com/content-pool-and-automation-capability?mtm_campaign=github&mtm_kwd=opbmv2)
