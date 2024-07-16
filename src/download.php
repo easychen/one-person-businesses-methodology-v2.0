@@ -1,7 +1,7 @@
 <?php
 
 $markdownDir = './'; // Markdown文件所在目录
-$imagesDir = './images'; // 图片下载目录
+$imagesDir = 'images'; // 图片下载目录
 
 // 确保图片下载目录存在
 if (!is_dir($imagesDir)) {
