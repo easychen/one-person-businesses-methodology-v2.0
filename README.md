@@ -30,7 +30,7 @@
 
 ## 电子书
 
-- 可使用 mdbook-epub 工具自行编译：`mdbook-epub --standalone true` 然后 epub 在 book 目录下
+- 可使用 mdbook-epub 工具自行编译：`mdbook-epub --standalone` 然后 epub 在 book 目录下
 - 扫码订阅《方法论》更新频道后下载: [进入](https://subdeer.cn/channel/landing/11)
 
 ## 在线阅读
